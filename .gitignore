@@ -1,0 +1,14 @@
+build
+build.exe
+Test_Build_C
+Test_Build_C.exe
+Test_Build_CXX
+Test_Build_CXX.exe
+example_c
+example_c.exe
+example_cxx
+example_cxx.exe
+example_hello
+example_hello.exe
+*.o
+libBuild.a
